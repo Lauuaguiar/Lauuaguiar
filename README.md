@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/lauuaguiar.png" width="150px" style="border-radius: 50%;" />
   <h1>Laura Aguiar Pérez</h1>
-  <p><em>Data Science & Engineering Student of ULPGC</em></p>
+  <p><em>Data Science & Engineering Student at ULPGC</em></p>
 </div>
 
 ---
