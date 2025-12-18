@@ -9,7 +9,7 @@
 ### Professional Profile
 Senior **Data Science and Engineering** student at the University of Las Palmas de Gran Canaria (ULPGC). Focused on extracting actionable insights from complex datasets and developing efficient algorithmic solutions.
 
-In 2023-2024, I completed an **Erasmus+ program in Warsaw, Poland**. This international experience significantly enhanced my adaptability in multicultural environments and consolidated my professional English proficiency within technical and academic contexts.
+In 2024-2025, I completed an **Erasmus+ program in Warsaw, Poland**. This international experience significantly enhanced my adaptability in multicultural environments and consolidated my professional English proficiency within technical and academic contexts.
 
 ---
 
