@@ -41,9 +41,3 @@ I am always open to discussing data-driven projects or potential collaborations.
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lauuaguiar2004@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lauuaguiar) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-aguiar-p%C3%A9rez-1a30923a1)
-
-<br />
-
-<div align="right">
-  <img src="https://visitcount.itsvg.in/api?id=lauuaguiar&icon=7&color=10" />
-</div>
