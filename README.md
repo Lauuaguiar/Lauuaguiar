@@ -7,7 +7,7 @@
 ---
 
 ### Professional Profile
-Senior **Data Science and Engineering** student at the University of Las Palmas de Gran Canaria (ULPGC). I specialize in **Data Wrangling, Exploratory Data Analysis (EDA), and Data Visualization**, with a strong interest in transforming raw data into strategic assets. My goal is to bridge the gap between complex datasets and clear, actionable business insights.
+Senior **Data Science and Engineering** student at the University of Las Palmas de Gran Canaria (ULPGC). I am deeply interested in **Data Wrangling, Exploratory Data Analysis (EDA), and Data Visualization**, with a strong focus on discovering patterns and extracting knowledge from complex datasets across any domain—from research to industry.
 
 In 2023-2024, I completed an **Erasmus+ program in Warsaw, Poland**. This experience significantly enhanced my problem-solving skills in multicultural environments and consolidated my technical English proficiency.
 
